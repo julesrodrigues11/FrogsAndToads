@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(160,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(175,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(197,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(240,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(265,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(287,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(312,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(347,28): warning C4018: '>': signed/unsigned mismatch
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(406,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(413,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(454,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(468,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jules\source\repos\FrogsAndToads\FrogsAndToads\main.cpp(51): warning C4715: 'nearestVisibility': not all control paths return a value
+  FrogsAndToads.vcxproj -> C:\Users\jules\source\repos\FrogsAndToads\Debug\FrogsAndToads.exe
